@@ -1,0 +1,14 @@
+.feapptest-title {
+    background-color: turquoise;
+    color: black;
+    border: none;
+}
+
+.feapptest {
+    text-align: center;
+    max-width: 50%;
+    align-items: center;
+    margin: auto;
+    margin-top: 1cm;
+    font-size: 1cm;
+}

@@ -1,0 +1,29 @@
+.logictest-title {
+    background-color: turquoise;
+    text-align: center;
+    max-width: 50%;
+    align-items: center;
+    margin: auto;
+    margin-top: 1cm;
+    font-size: 1cm;
+    color: black;
+    border: none;
+}
+
+Form {
+    margin: auto;
+    max-width:19ch;
+}
+
+.logictest-output {
+    text-align: center;
+    margin: auto;
+}
+
+.logictest {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 0%;
+}
+
